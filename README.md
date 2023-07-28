@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @olgabs
+- 👋 Hi, I’m @beatrizbc
 - 👀 I’m interested in coding, app design and movies
-- 🌱 I’m currently learning Javascript and Java 
+- 🌱 I’m currently with Javascript and C#
 
 <a href="https://github.com/olgabs">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=olgabs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
